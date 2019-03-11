@@ -1,5 +1,5 @@
 {
-    "name": "pinepain/amqpy",
+    "name": "overherz/amqpy",
     "type": "library",
     "description": "Lightweight AMQP framework built on top of the php-amqp extension",
     "keywords": ["rabbitmq", "amqp", "message", "queue"],
